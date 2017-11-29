@@ -1,0 +1,5 @@
+﻿  AgwiazdkaLaptop.cpp
+c:\krzysiek\agwiazdkalaptop\agwiazdkalaptop\agwiazdkalaptop.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\krzysiek\agwiazdkalaptop\agwiazdkalaptop\agwiazdkalaptop.cpp(166): warning C4018: '<': signed/unsigned mismatch
+  AgwiazdkaLaptop.vcxproj -> C:\Krzysiek\AgwiazdkaLaptop\Debug\AgwiazdkaLaptop.exe
+  AgwiazdkaLaptop.vcxproj -> C:\Krzysiek\AgwiazdkaLaptop\Debug\AgwiazdkaLaptop.pdb (Partial PDB)
